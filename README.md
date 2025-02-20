@@ -1,4 +1,4 @@
-# Font Interpolation
+# Font Style Interpolation
 
 <img src="https://github.com/pantDevesh/Font-Interpolation/raw/master/diffae/imgs/font_intp.png" alt="Font Interpolation" width="80%" height="80%">
 
